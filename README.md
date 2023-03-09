@@ -8,3 +8,4 @@
 3. [Find the model number, RAM and screen size of the laptops with prices over $1000.](./solutions/003.md)
 4. [Find all records from the Printer table containing data about color printers.](./solutions/004.md)
 5. [Find the model number, speed and hard drive capacity of PCs cheaper than $600 having a 12x or a 24x CD drive.](./solutions/005.md)
+6. [For each maker producing laptops with a hard drive capacity of 10 Gb or higher, find the speed of such laptops. Result set: maker, speed.](./solutions/006.md)
