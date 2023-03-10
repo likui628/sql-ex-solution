@@ -14,3 +14,4 @@
 9. [Find the makers of PCs with a processor speed of 450 MHz or more. Result set: maker.](./solutions/009.md)
 10. [Find the printer models having the highest price.](./solutions/010.md)
 11. [Find out the average speed of PCs.](./solutions/011.md)
+12. [Find out the average speed of the laptops priced over $1000.](./solutions/012.md)
