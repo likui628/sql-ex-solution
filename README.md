@@ -17,3 +17,4 @@
 12. [Find out the average speed of the laptops priced over $1000.](./solutions/012.md)
 13. [Find out the average speed of the PCs produced by maker A.](./solutions/013.md)
 14. [For the ships in the Ships table that have at least 10 guns, get the class, name, and country.](./solutions/014.md)
+15. [Get hard drive capacities that are identical for two or more PCs.](./solutions/015.md)
