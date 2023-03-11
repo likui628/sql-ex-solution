@@ -23,3 +23,4 @@
 18. [Find the makers of the cheapest color printers.](./solutions/018.md)
 19. [For each maker having models in the Laptop table, find out the average screen size of the laptops he produces.](./solutions/019.md)
 20. [Find the makers producing at least three distinct models of PCs.](./solutions/020.md)
+21. [Find out the maximum PC price for each maker having models in the PC table.](./solutions/021.md)
