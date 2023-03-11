@@ -21,3 +21,4 @@
 16. [Get pairs of PC models with identical speeds and the same RAM capacity. Each resulting pair should be displayed only once, i.e. (i, j) but not (j, i).](./solutions/016.md)
 17. [Get the laptop models that have a speed smaller than the speed of any PC.](./solutions/017.md)
 18. [Find the makers of the cheapest color printers.](./solutions/018.md)
+19. [For each maker having models in the Laptop table, find out the average screen size of the laptops he produces.](./solutions/019.md)
