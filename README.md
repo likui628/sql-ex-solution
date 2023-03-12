@@ -34,3 +34,4 @@
 29. [Under the assumption that receipts of money (inc) and payouts (out) are registered not more than once a day for each collection point [i.e. the primary key consists of (point, date)], write a query displaying cash flow data (point, date, income, expense). Use Income_o and Outcome_o tables.](./solutions/029.md)
 30. [Under the assumption that receipts of money (inc) and payouts (out) can be registered any number of times a day for each collection point [i.e. the code column is the primary key], display a table with one corresponding row for each operating date of each collection point.](./solutions/030.md)
 31. [For ship classes with a gun caliber of 16 in. or more, display the class and the country.](./solutions/031.md)
+33. [Get the ships sunk in the North Atlantic battle.](./solutions/033.md)
