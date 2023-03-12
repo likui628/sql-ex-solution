@@ -27,3 +27,4 @@
 22. [For each value of PC speed that exceeds 600 MHz, find out the average price of PCs with identical speeds.](./solutions/022.md)
 23. [Get the makers producing both PCs having a speed of 750 MHz or higher and laptops with a speed of 750 MHz or higher.](./solutions/023.md)
 24. [List the models of any type having the highest price of all products present in the database.](./solutions/024.md)
+25. [Find the printer makers also producing PCs with the lowest RAM capacity and the highest processor speed of all PCs having the lowest RAM capacity.](./solutions/025.md)
