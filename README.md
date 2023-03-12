@@ -35,3 +35,4 @@
 30. [Under the assumption that receipts of money (inc) and payouts (out) can be registered any number of times a day for each collection point [i.e. the code column is the primary key], display a table with one corresponding row for each operating date of each collection point.](./solutions/030.md)
 31. [For ship classes with a gun caliber of 16 in. or more, display the class and the country.](./solutions/031.md)
 33. [Get the ships sunk in the North Atlantic battle.](./solutions/033.md)
+34. [In accordance with the Washington Naval Treaty concluded in the beginning of 1922, it was prohibited to build battle ships with a displacement of more than 35 thousand tons.Get the ships violating this treaty (only consider ships for which the year of launch is known).](./solutions/034.md)
