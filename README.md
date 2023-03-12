@@ -37,3 +37,4 @@
 32. [One of the characteristics of a ship is one-half the cube of the calibre of its main guns (mw).Determine the average ship mw with an accuracy of two decimal places for each country having ships in the database.](./solutions/032.md)
 33. [Get the ships sunk in the North Atlantic battle.](./solutions/033.md)
 34. [In accordance with the Washington Naval Treaty concluded in the beginning of 1922, it was prohibited to build battle ships with a displacement of more than 35 thousand tons.Get the ships violating this treaty (only consider ships for which the year of launch is known).](./solutions/034.md)
+35. [Find models in the Product table consisting either of digits only or Latin letters (A-Z, case insensitive) only.](./solutions/035.md)
