@@ -41,3 +41,4 @@
 36. [List the names of lead ships in the database (including the Outcomes table).](./solutions/036.md)
 37. [Find classes for which only one ship exists in the database (including the Outcomes table).](./solutions/037.md)
 38. [Find countries that ever had classes of both battleships (‘bb’) and cruisers (‘bc’).](./solutions/038.md)
+39. [Find the ships that `survived for future battles`; that is, after being damaged in a battle, they participated in another one, which occurred later.](./solutions/039.md)
