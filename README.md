@@ -44,3 +44,4 @@
 39. [Find the ships that `survived for future battles`; that is, after being damaged in a battle, they participated in another one, which occurred later.](./solutions/039.md)
 40. [Get the makers who produce only one product type and more than one model.](./solutions/040.md)
 41. [For each maker who has models at least in one of the tables PC, Laptop, or Printer, determine the maximum price for his products.](./solutions/041.md)
+42. [Find the names of ships sunk at battles, along with the names of the corresponding battles.](./solutions/042.md)
