@@ -47,3 +47,4 @@
 42. [Find the names of ships sunk at battles, along with the names of the corresponding battles.](./solutions/042.md)
 43. [Get the battles that occurred in years when no ships were launched into water.](./solutions/043.md)
 44. [Find all ship names beginning with the letter R.](./solutions/044.md)
+45. [Find all ship names consisting of three or more words (e.g., King George V).](./solutions/045.md)
