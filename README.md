@@ -48,3 +48,4 @@
 43. [Get the battles that occurred in years when no ships were launched into water.](./solutions/043.md)
 44. [Find all ship names beginning with the letter R.](./solutions/044.md)
 45. [Find all ship names consisting of three or more words (e.g., King George V).](./solutions/045.md)
+46. [For each ship that participated in the Battle of Guadalcanal, get its name, displacement, and the number of guns.](./solutions/046.md)
