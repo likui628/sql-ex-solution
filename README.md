@@ -50,3 +50,4 @@
 45. [Find all ship names consisting of three or more words (e.g., King George V).](./solutions/045.md)
 46. [For each ship that participated in the Battle of Guadalcanal, get its name, displacement, and the number of guns.](./solutions/046.md)
 47. [Find the countries that have lost all their ships in battles.](./solutions/047.md)
+48. [Find the ship classes having at least one ship sunk in battles.](./solutions/048.md)
