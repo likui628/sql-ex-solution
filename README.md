@@ -54,3 +54,4 @@
 49. [Find the names of the ships having a gun caliber of 16 inches (including ships in the Outcomes table).](./solutions/049.md)
 50. [Find the battles in which Kongo-class ships from the Ships table were engaged.](./solutions/050.md)
 51. [Find the names of the ships with the largest number of guns among all ships having the same displacement (including ships in the Outcomes table).](./solutions/051.md)
+52. [Determine the names of all ships in the Ships table that can be a Japanese battleship having at least nine main guns with a caliber of less than 19 inches and a displacement of not more than 65 000 tons.](./solutions/052.md)
