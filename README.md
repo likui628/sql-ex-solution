@@ -53,3 +53,4 @@
 48. [Find the ship classes having at least one ship sunk in battles.](./solutions/048.md)
 49. [Find the names of the ships having a gun caliber of 16 inches (including ships in the Outcomes table).](./solutions/049.md)
 50. [Find the battles in which Kongo-class ships from the Ships table were engaged.](./solutions/050.md)
+51. [Find the names of the ships with the largest number of guns among all ships having the same displacement (including ships in the Outcomes table).](./solutions/051.md)
