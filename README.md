@@ -57,3 +57,4 @@
 52. [Determine the names of all ships in the Ships table that can be a Japanese battleship having at least nine main guns with a caliber of less than 19 inches and a displacement of not more than 65 000 tons.](./solutions/052.md)
 53. [With a precision of two decimal places, determine the average number of guns for the battleship classes.](./solutions/053.md)
 54. [With a precision of two decimal places, determine the average number of guns for all battleships (including the ones in the Outcomes table).](./solutions/054.md)
+55. [For each class, determine the year the first ship of this class was launched.If the lead ship’s year of launch is not known, get the minimum year of launch for the ships of this class.Result set: class, year.](./solutions/055.md)
